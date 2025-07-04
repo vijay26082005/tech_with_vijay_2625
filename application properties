@@ -1,0 +1,7 @@
+spring.application.name=HotelRoomsEnd
+spring.datasource.url=jdbc:mysql://localhost:3306/hotel_db -- instead of hotel_db you can give Your Own Database Name
+spring.datasource.username=root
+spring.datasource.password=mysql2005---  As Per the User Your MYSQL password Should be changed
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
